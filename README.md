@@ -44,4 +44,4 @@ You can review our security policy via [SECURITY.md]
 [SECURITY.md]: https://github.com/projectlombok/lombok/blob/master/SECURITY.md
 [projectlombok.org]: https://projectlombok.org/
 [tidelift subscription]: https://tidelift.com/subscription/pkg/maven-org-projectlombok-lombok?utm_source=maven-org-projectlombok-lombok&utm_medium=referral&campaign=website
-[博客原文]: https://bigbrotherlee.com/index.php/archives/327/
+[博客原文]: https://bigbrotherlee.com/index.php/archives/517/
