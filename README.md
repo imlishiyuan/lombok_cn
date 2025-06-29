@@ -50,7 +50,7 @@ sts是[spring tools suite][5]的简写，它增强了eclipse使其更加适合�
 ### clone项目初始化环境
 考虑到国内的网络环境，我修改了一些配置，预先下载了一些包将其放到了gitee。建议你直接clone这个项目，使用这个项目开发。
 
-> git clone https://gitee.com/lishiyuan_cn/lombok_cn.git
+> git clone https://gitee.com/lishiyuan_cn/lombok_cn.git lombok
 
 项目一百多MB可能需要下载一段时间。下载完成后进入lombok_cn文件夹，**重命名lib-pre文件夹为lib（预先下载的库在里面）**。
 使用ant或者ant quickstart命令可以查看如何开始，使用ant help可以查看帮助。具体更多构建命令需要查看本项目的xml配置（build.xml和buildScripts文件夹下面的xml配置）。这里我们需要下面命令将项目初始化为eclipse项目
